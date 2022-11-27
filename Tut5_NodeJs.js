@@ -1,0 +1,10 @@
+//Common JS - Every file is module(by default)
+//MODULES - Encapsulated code(only share minimum)
+const names = require('./Tut5(1)')
+const sayHi = require('./Tut5(2)')
+const person = require('./Tut6_NodeJS')
+require('./Tut7_NodeJS')
+/*console.log(person)
+sayHi(names.john)
+sayHi(names.peter)
+console.log(sum)*/
